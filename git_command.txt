@@ -4,3 +4,5 @@ git add    github_command.txt
 git add . 
 git commit -m "new commit"
 git rm (github_command.txt) 
+
+a new changes
