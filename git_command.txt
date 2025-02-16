@@ -6,3 +6,4 @@ git commit -m "new commit"
 git rm (github_command.txt) 
 
 a new changes
+testing
